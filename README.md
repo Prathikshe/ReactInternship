@@ -13,7 +13,7 @@ Some of the pages in this project are listed below:
 * Tables
 
 To view the website *in your browser* click below:
-* https://prathikshe.github.io/React_Internship/pages/dashboard.html
+* https://prathikshe.github.io/ReactInternship/pages/dashboard.html
 
 
 Some of the **Snap Shots** of the application are shared below
